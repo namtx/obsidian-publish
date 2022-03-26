@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/index.md",
+            "file": "wiki/Data structures and Algorithms/binary-search-tree/Search And Insertion.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/Data structures and Algorithms/binary-search-tree/Search And Insertion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,11 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/binary-search-tree/Search And Insertion.md",
+    "wiki/Data structures and Algorithms/Binary Search Tree.md",
     "wiki/index.md",
     "wiki/Data structures and Algorithms/binary search tree.png",
     "wiki/Data structures and Algorithms/index.md",
-    "wiki/Data structures and Algorithms/Binary Search Tree.md",
     "wiki/Data Structure and Algorithms.md",
     "wiki/Binary Search Tree.md"
   ]
