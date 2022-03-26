@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data Structure and Algorithms.md",
+            "file": "wiki/index.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data Structure and Algorithms.md",
+                "file": "wiki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,10 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/Data structures and Algorithms/binary search tree.png",
+    "wiki/Data structures and Algorithms/index.md",
+    "wiki/Data structures and Algorithms/Binary Search Tree.md",
     "wiki/Data Structure and Algorithms.md",
     "wiki/Binary Search Tree.md"
   ]

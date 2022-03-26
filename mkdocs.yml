@@ -1,0 +1,16 @@
+site_name: My Obsidian Notes
+site_url: https://namtx.dev/obsidian-publish
+site_dir: public
+docs_dir: ./wiki
+theme:
+  name: material 
+  palette:
+    primary: deep purple
+    scheme: slate
+plugins:
+  - roamlinks
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
