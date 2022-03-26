@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "fc6aff2697e12724",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc1932627d4f057",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "wiki/Data Structure and Algorithms.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "168ef5f0f21fb4e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3013c9498b5a35b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7754a1656142303",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f9ecd68aae22e55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2772d1072bb6084",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39a37098e6d8e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "481582ccb960f576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/Data Structure and Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6cc1932627d4f057",
+  "lastOpenFiles": [
+    "wiki/Data Structure and Algorithms.md",
+    "wiki/Binary Search Tree.md"
+  ]
+}
