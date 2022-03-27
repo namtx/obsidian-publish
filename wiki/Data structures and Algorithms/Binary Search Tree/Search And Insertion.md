@@ -66,6 +66,7 @@ class BinarySearchTree {
 
 ### Leetcode Problems
 - [https://leetcode.com/problems/insert-into-a-binary-search-tree/](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+- [https://leetcode.com/problems/search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)
 
 ### References
 - [Geeks for Geeks](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
