@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/Increasing Order Search Tree.md",
+            "file": "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/Increasing Order Search Tree.md",
+                "file": "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md",
     "wiki/Data structures and Algorithms/Leetcode/Increasing Order Search Tree.md",
     "wiki/Data structures and Algorithms/Leetcode/Weekly contest 286.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Search And Insertion.md",
@@ -97,7 +98,6 @@
     "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/delete bst four cases.png",
     "wiki/Data structures and Algorithms/binary search tree.png",
-    "wiki/index.md",
-    "wiki/Data Structure and Algorithms.md"
+    "wiki/index.md"
   ]
 }
