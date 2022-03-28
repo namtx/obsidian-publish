@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md",
+            "file": "wiki/Interview/Index.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md",
+                "file": "wiki/Interview/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Interview/Index.md",
+    "wiki/index.md",
+    "wiki/Data structures and Algorithms/index.md",
+    "wiki/Data structures and Algorithms/Binary Search Tree/Unique Binary Search Trees II.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md",
+    "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md",
     "wiki/Data structures and Algorithms/Leetcode/Increasing Order Search Tree.md",
     "wiki/Data structures and Algorithms/Leetcode/Weekly contest 286.md",
-    "wiki/Data structures and Algorithms/Binary Search Tree/Search And Insertion.md",
-    "wiki/Data structures and Algorithms/Binary Search Tree.md",
-    "wiki/Data structures and Algorithms/index.md",
-    "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md",
-    "wiki/Data structures and Algorithms/Binary Search Tree/delete bst four cases.png",
-    "wiki/Data structures and Algorithms/binary search tree.png",
-    "wiki/index.md"
+    "wiki/Data structures and Algorithms/Leetcode/Pasted image 20220327153712.png",
+    "wiki/Data structures and Algorithms/Binary Search Tree/Search And Insertion.md"
   ]
 }
