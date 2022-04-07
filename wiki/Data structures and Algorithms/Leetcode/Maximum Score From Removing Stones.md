@@ -76,3 +76,6 @@ int maximumScore(int a, int b, int c) {
 	return largest >= sumOfOtherTwo ? sumOfOtherTwo : total/2;
 }
 ```
+
+### References
+- https://leetcode.com/problems/maximum-score-from-removing-stones/discuss/1054216/Prove-the-math-O(1)
