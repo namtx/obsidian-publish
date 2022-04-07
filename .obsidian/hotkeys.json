@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-shellcommands:shell-command-0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}
