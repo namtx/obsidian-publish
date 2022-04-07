@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md",
+            "file": "wiki/Data structures and Algorithms/Leetcode/Koko Eating Bananas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md",
+                "file": "wiki/Data structures and Algorithms/Leetcode/Koko Eating Bananas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Leetcode/Koko Eating Bananas.md",
     "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md",
     "wiki/Data structures and Algorithms/Binary Search.md",
     "wiki/Notes/Designing Data-Intensive Applications.md",
@@ -97,7 +98,6 @@
     "wiki/Notes/HTTP Status Codes.md",
     "wiki/Notes/Tailwindcss with Parcel.md",
     "wiki/Data structures and Algorithms/Leetcode/Maximum Score From Removing Stones.md",
-    "wiki/Data structures and Algorithms/Leetcode/K Closest Points to Origin.md",
-    "wiki/Data structures and Algorithms/Priority Queue.md"
+    "wiki/Data structures and Algorithms/Leetcode/K Closest Points to Origin.md"
   ]
 }
