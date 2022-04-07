@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/Index.md",
+            "file": "wiki/Notes/Tailwindcss with Parcel.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/Index.md",
+                "file": "wiki/Notes/Tailwindcss with Parcel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/Tailwindcss with Parcel.md",
     "wiki/Notes/Index.md",
     "wiki/Notes/HTTP Status Codes.md",
     "wiki/Notes/PostgreSQL autovacuum launcher process.md",
@@ -97,7 +98,6 @@
     "wiki/Data structures and Algorithms/Priority Queue.md",
     "wiki/Data structures and Algorithms/Binary heap representation.png",
     "wiki/Data structures and Algorithms/Binary heap representation.png",
-    "wiki/Data structures and Algorithms/binary search tree.png",
-    "wiki/Data structures and Algorithms/Binary Search Tree/LCA.md"
+    "wiki/Data structures and Algorithms/binary search tree.png"
   ]
 }
