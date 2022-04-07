@@ -13,7 +13,7 @@
   "shell_commands": {
     "0": {
       "platform_specific_commands": {
-        "default": "git add -A && git commit -m \"Add {{title}}\" && git push origin master -f"
+        "default": "git add -A && git commit -m \"Add {{title}}\" && git push origin main -f"
       },
       "shells": {},
       "alias": "",
