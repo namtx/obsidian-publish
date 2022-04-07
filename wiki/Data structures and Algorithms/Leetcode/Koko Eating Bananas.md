@@ -6,7 +6,9 @@
 
 The maximum `k` is the maximum bananas in `piles`, and the minimum is `1` (Koko eats one banana each hour).
 Do a binary seach in range `1..max`
+
 For each `mid`, and `total` as the number of hours Koko needs to eat all bananas:
+
 - If `total > h`, it means Koko needs to eat faster, so `left = mid + 1`
 - If `total <= h`, it means Koko can eat all bananas within `total` hours, and since Koko likes to eat slowly, we will assign `right = mid` to find better result.
 

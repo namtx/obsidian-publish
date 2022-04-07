@@ -11,6 +11,7 @@ This problem is the same with [[Koko Eating Bananas]]
  and [[Maximum Candies Allocated to K Children]]
 
 To optimize, we can find the `min(nums)` and do a Binary Search in range `min..max` instead.
+
 But we have to care the case when all values in `nums` are the same, so `min === max`.
 
 #### Submission
