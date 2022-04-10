@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/Minimum Limit of Balls in a Bag.md",
+            "file": "wiki/Notes/Load-balancing in gRPC.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/Minimum Limit of Balls in a Bag.md",
+                "file": "wiki/Notes/Load-balancing in gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/Load-balancing in gRPC.md",
     "wiki/Data structures and Algorithms/Leetcode/Minimum Limit of Balls in a Bag.md",
     "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md",
     "wiki/Data structures and Algorithms/Leetcode/Maximum Score From Removing Stones.md",
@@ -97,7 +98,6 @@
     "wiki/Notes/Designing Data-Intensive Applications.md",
     "wiki/Notes/PostgreSQL autovacuum launcher process.md",
     "wiki/Notes/Index.md",
-    "wiki/Notes/HTTP Status Codes.md",
-    "wiki/Notes/Tailwindcss with Parcel.md"
+    "wiki/Notes/HTTP Status Codes.md"
   ]
 }
