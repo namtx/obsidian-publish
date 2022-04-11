@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/Load-balancing in gRPC.md",
+            "file": "wiki/Notes/Network Timing breakdown phases explained.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invariant",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/Load-balancing in gRPC.md",
+                "file": "wiki/Notes/Network Timing breakdown phases explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/Network Timing breakdown phases explained.md",
+    "wiki/Notes/Network timing breakdown phases.png",
     "wiki/Notes/Load-balancing in gRPC.md",
     "wiki/Data structures and Algorithms/Leetcode/Minimum Limit of Balls in a Bag.md",
     "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md",
@@ -96,8 +98,6 @@
     "wiki/Data structures and Algorithms/Leetcode/Koko Eating Bananas.md",
     "wiki/Data structures and Algorithms/Binary Search.md",
     "wiki/Notes/Designing Data-Intensive Applications.md",
-    "wiki/Notes/PostgreSQL autovacuum launcher process.md",
-    "wiki/Notes/Index.md",
-    "wiki/Notes/HTTP Status Codes.md"
+    "wiki/Notes/PostgreSQL autovacuum launcher process.md"
   ]
 }
