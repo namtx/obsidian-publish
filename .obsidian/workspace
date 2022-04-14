@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/Libs.md",
+            "file": "wiki/Notes/Links.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/Libs.md",
+                "file": "wiki/Notes/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/Links.md",
     "wiki/Notes/Libs.md",
     "wiki/Notes/Network Timing breakdown phases explained.md",
     "wiki/Notes/Network timing breakdown phases.png",
@@ -97,7 +98,6 @@
     "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md",
     "wiki/Data structures and Algorithms/Leetcode/Maximum Score From Removing Stones.md",
     "wiki/Data structures and Algorithms/Leetcode/Koko Eating Bananas.md",
-    "wiki/Data structures and Algorithms/Binary Search.md",
-    "wiki/Notes/Designing Data-Intensive Applications.md"
+    "wiki/Data structures and Algorithms/Binary Search.md"
   ]
 }
