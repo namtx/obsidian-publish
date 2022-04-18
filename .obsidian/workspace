@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/Minimize Result by Adding Parentheses to ExpressionUntitled.md",
+            "file": "wiki/Data structures and Algorithms/Binary Search.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/Minimize Result by Adding Parentheses to ExpressionUntitled.md",
+                "file": "wiki/Data structures and Algorithms/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Binary Search.md",
     "wiki/Data structures and Algorithms/Leetcode/Minimize Result by Adding Parentheses to ExpressionUntitled.md",
     "wiki/Notes/Designing Data-Intensive Applications.md",
     "wiki/Notes/Libs.md",
@@ -97,7 +98,6 @@
     "wiki/Notes/Network timing breakdown phases.png",
     "wiki/Notes/Load-balancing in gRPC.md",
     "wiki/Data structures and Algorithms/Leetcode/Minimum Limit of Balls in a Bag.md",
-    "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md",
-    "wiki/Data structures and Algorithms/Leetcode/Maximum Score From Removing Stones.md"
+    "wiki/Data structures and Algorithms/Leetcode/Maximum Candies Allocated to K Children.md"
   ]
 }
