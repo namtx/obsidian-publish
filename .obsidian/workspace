@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/Libs.md",
+            "file": "wiki/Notes/React re-rendering and useContext.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/Libs.md",
+                "file": "wiki/Notes/React re-rendering and useContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/React re-rendering and useContext.md",
     "wiki/Notes/Libs.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md",
     "wiki/Data structures and Algorithms/Binary Search.md",
@@ -97,7 +98,6 @@
     "wiki/System Design/Read list.md",
     "wiki/index.md",
     "wiki/Notes/Links.md",
-    "wiki/Data structures and Algorithms/Leetcode/Minimize Result by Adding Parentheses to ExpressionUntitled.md",
-    "wiki/Notes/Designing Data-Intensive Applications.md"
+    "wiki/Data structures and Algorithms/Leetcode/Minimize Result by Adding Parentheses to ExpressionUntitled.md"
   ]
 }
