@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/React re-rendering and useContext.md",
+            "file": "wiki/Notes/Rate Limiting Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c2772d1072bb6084",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/React re-rendering and useContext.md",
+                "file": "wiki/Notes/Rate Limiting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/Rate Limiting Algorithms.md",
+    "wiki/Notes/token bucket.png",
     "wiki/Notes/React re-rendering and useContext.md",
     "wiki/Notes/Libs.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md",
@@ -96,8 +99,6 @@
     "wiki/Data structures and Algorithms/Leetcode/2240. Number of Ways to Buy Pens and Pencils.md",
     "wiki/Data structures and Algorithms/Leetcode/2246. Longest Path With Different Adjacent Characters.md",
     "wiki/System Design/Read list.md",
-    "wiki/index.md",
-    "wiki/Notes/Links.md",
-    "wiki/Data structures and Algorithms/Leetcode/Minimize Result by Adding Parentheses to ExpressionUntitled.md"
+    "wiki/index.md"
   ]
 }
