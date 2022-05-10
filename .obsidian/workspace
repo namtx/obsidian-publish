@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/1209. Remove All Adjacent Duplicates in String II.md",
+            "file": "wiki/Data structures and Algorithms/Leetcode/216. Combination Sum III.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/1209. Remove All Adjacent Duplicates in String II.md",
+                "file": "wiki/Data structures and Algorithms/Leetcode/216. Combination Sum III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Leetcode/216. Combination Sum III.md",
     "wiki/Data structures and Algorithms/Leetcode/1209. Remove All Adjacent Duplicates in String II.md",
     "wiki/Notes/Where to store JWT token at client side?.md",
     "wiki/Data structures and Algorithms/Leetcode/2257. Count Unguarded Cells in the Grid.md",
@@ -97,7 +98,6 @@
     "wiki/Notes/React re-rendering and useContext.md",
     "wiki/Notes/Libs.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md",
-    "wiki/Data structures and Algorithms/Binary Search.md",
-    "wiki/Data structures and Algorithms/Leetcode/2240. Number of Ways to Buy Pens and Pencils.md"
+    "wiki/Data structures and Algorithms/Binary Search.md"
   ]
 }
