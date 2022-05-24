@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/329. Longest Increasing Path in a Matrix.md",
+            "file": "wiki/Notes/Unix Processes.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c2772d1072bb6084",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/329. Longest Increasing Path in a Matrix.md",
+                "file": "wiki/Notes/Unix Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/Unix Processes.md",
+    "wiki/Data structures and Algorithms/mst 1.png",
     "wiki/Data structures and Algorithms/Leetcode/329. Longest Increasing Path in a Matrix.md",
     "wiki/Data structures and Algorithms/Leetcode/216. Combination Sum III.md",
     "wiki/Data structures and Algorithms/Leetcode/1209. Remove All Adjacent Duplicates in String II.md",
@@ -96,8 +99,6 @@
     "wiki/Data structures and Algorithms/Leetcode/2257. Count Unguarded Cells in the Grid.md",
     "wiki/Notes/Rate Limiting Algorithms.md",
     "wiki/Notes/token bucket.png",
-    "wiki/Notes/React re-rendering and useContext.md",
-    "wiki/Notes/Libs.md",
-    "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md"
+    "wiki/Notes/React re-rendering and useContext.md"
   ]
 }
