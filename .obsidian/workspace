@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/Unix Processes.md",
+            "file": "wiki/System Design/Design Notification System.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c2772d1072bb6084",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/Unix Processes.md",
+                "file": "wiki/System Design/Design Notification System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/System Design/Design Notification System.md",
     "wiki/Notes/Unix Processes.md",
     "wiki/Data structures and Algorithms/mst 1.png",
     "wiki/Data structures and Algorithms/Leetcode/329. Longest Increasing Path in a Matrix.md",
@@ -98,7 +98,6 @@
     "wiki/Notes/Where to store JWT token at client side?.md",
     "wiki/Data structures and Algorithms/Leetcode/2257. Count Unguarded Cells in the Grid.md",
     "wiki/Notes/Rate Limiting Algorithms.md",
-    "wiki/Notes/token bucket.png",
-    "wiki/Notes/React re-rendering and useContext.md"
+    "wiki/Notes/token bucket.png"
   ]
 }
