@@ -415,31 +415,139 @@ _Nothing_, that is to say, the OS doesn't treat child processes any differently 
 - `Daemon processes` are long running processes that are intentionally orphaned and meant to stay running forever.
 - Communicationg with processes that are not attached to a terminal session. You can do this using something 
 
+#### CoW
+As metioned, `fork(2)` creates a new child process that's an exact copy of the parent process. This includes a copy of everything the parent process has in memory.
+
+Physically copying all of data can be considerable overhead, so modern Unix systems employ something called `copy-on-write` sematics (CoW) to combat this.
+
+CoW delays the actual copying on memory until it needs to be written.
+
+So the parent process and child process will actually share the same physical data in memory until one of them need to modify it, at which point the memory will be copied so the proper separation between the two processes can be preserved.
+
+```ruby
+arr = [1,2,3] fork do
+# At this point the child process has been initialized. 
+# Using CoW this process doesn't need to copy the arr variable, 
+# since it hasn't modified any shared values it can continue reading 
+# from the same memory location as the parent process. 
+	p arr
+end
+```
+
+```ruby
+arr = [1,2,3] fork do 
+# At this point the child process has been initialized. 
+# Because of CoW the arr variable hasn't been copied yet. 
+	arr << 4 
+# The above line of code modifies the array, so a copy of 
+# the array will need to be made for this process before 
+# it can modify it. The array in the parent process remains 
+# unchanged. 
+end
+```
 
 
+> MRI's garbage collector uses a `mark-and-sweep` algorithm. In a nutshell this means that when the GC is invoked it must traverse the graph of live objects, and for each one the GC must `mark` it as alive.
+> 
+> In MRI <= 1.9, this `mark` step was implemented as a modification to that object in memory. So when the GC was invoked right after a `fork`, all live objects were modified, forcing the OS to make copies of all live Ruby objects and foregoing any benefit from CoW semantics.
+> 
+> MRI >= 2.0 still uses a `mark-and-sweep` GC, but preserves CoW semantics by storing all of the `marks` in a small data structure in a disparate region of memory. So when the GC runs after a `fork`, this small region of memory must be copied, but the graph of live Ruby objects can be shared between parent and child until your code modifies an object.
+
+#### Processes can wait
+- _fire and forget_ is useful when you want a child process to handle something asynchrously, but the parent process still has its own work to do.
+
+```ruby
+message = 'Good Morning'
+recipient = 'tree@mybackyard.com'
+
+fork do 
+	# In this contrived example the parent process forks a child to take 
+	# care of sending data to the stats collector. Meanwhile the parent 
+	# process has continued on with its work of sending the actual payload. 
+	# The parent process doesn't want to be slowed down with this task, and 
+	# it doesn't matter if this would fail for some reason. 
+	StatsCollector.record message, recipient
+end
+# send message to recipient
+```
+
+- `Process.wait`
+
+```ruby
+fork do 
+	5.times do
+		sleep 1 
+		puts "I am an orphan!"
+	end 
+end
+Process.wait
+abort "Parent process died..."
+```
+
+```console
+I am an orphan! 
+I am an orphan! 
+I am an orphan! 
+I am an orphan! 
+I am an orphan! 
+Parent process died...
+```
+
+Control will not be returned to the terminal until all of the output has been printed.
+
+**`Process.wait` is a blocking call instructing the parent process to wait for one of its child processes to exit before continuing.**
+
+```ruby
+# We create 3 child processes. 
+3.times do 
+	fork do 
+		# Each one sleeps for a random amount of number less than 5 seconds. 
+		sleep rand(5) 
+	end
+end 
+3.times do 
+	# We wait for each child process to exit and print the pid that 
+	# gets returned. 
+	puts Process.wait 
+end
+```
+
+##### Race Conditions
+```ruby
+# We create two child processes. 
+2.times do 
+	fork do 
+		# Both processes exit immediately. 
+		abort "Finished!" 
+	end 
+end 
+# The parent process waits for the first process, then sleeps for 5 seconds. 
+# In the meantime the second child process has exited and is no 
+# longer running. 
+puts Process.wait 
+sleep 5 
+# The parent process asks to wait once again, and amazingly enough, the second # process' exit information has been queued up and is returned here. 
+puts Process.wait
+```
 
 
+The kernel queues up information about exited processes so that parent always receives the information in order that children exited.
 
+##### In the real World
+- _babysitting processes_
 
+At the core of this pattern is the concept that you have one process that forks serveral child processes, for concurrency, and then spends ti
 
+- `waitpid(2)`
 
+#### Zoombie Process
 
+- `fire and forget manner`
 
+Kernel queues up information about child processes that have exited. So even if you `Process.wait` long after process has exited its information is still available.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The kernel will retain the status of exited child process until the parent process requests that status using `Process.wait`.
+If the parent never requests the status t hen the kernel will never _reap_ that status information. So creating fire and forget child process without collecting their status information is poor use of kernel resources.
 
 
 
