@@ -549,5 +549,3 @@ Kernel queues up information about child processes that have exited. So even if 
 The kernel will retain the status of exited child process until the parent process requests that status using `Process.wait`.
 If the parent never requests the status t hen the kernel will never _reap_ that status information. So creating fire and forget child process without collecting their status information is poor use of kernel resources.
 
-
-
