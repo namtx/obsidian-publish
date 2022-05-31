@@ -5,3 +5,5 @@
 - https://martinfowler.com/bliki/IntegrationDatabase.html
 
 - https://samnewman.io/books/building_microservices/
+
+- https://martinfowler.com/bliki/StranglerFigApplication.html
