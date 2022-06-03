@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/Microservice - Learning resources.md",
+            "file": "wiki/Data structures and Algorithms/Leetcode/304. Range Sum Query 2D - Immutable.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/Microservice - Learning resources.md",
+                "file": "wiki/Data structures and Algorithms/Leetcode/304. Range Sum Query 2D - Immutable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Leetcode/304. Range Sum Query 2D - Immutable.md",
     "wiki/Notes/Microservice - Learning resources.md",
     "wiki/Notes/Unix Processes.md",
     "wiki/Notes/Vài ghi chép về Process.md",
@@ -97,7 +98,6 @@
     "wiki/Data structures and Algorithms/Leetcode/329. Longest Increasing Path in a Matrix.md",
     "wiki/Data structures and Algorithms/Leetcode/216. Combination Sum III.md",
     "wiki/Data structures and Algorithms/Leetcode/1209. Remove All Adjacent Duplicates in String II.md",
-    "wiki/Notes/Where to store JWT token at client side?.md",
-    "wiki/Data structures and Algorithms/Leetcode/2257. Count Unguarded Cells in the Grid.md"
+    "wiki/Notes/Where to store JWT token at client side?.md"
   ]
 }
