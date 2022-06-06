@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/Design a Text Editor.md",
+            "file": "wiki/Data structures and Algorithms/Leetcode/2295. Replace Elements in an Array.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/Design a Text Editor.md",
+                "file": "wiki/Data structures and Algorithms/Leetcode/2295. Replace Elements in an Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Leetcode/2295. Replace Elements in an Array.md",
     "wiki/Data structures and Algorithms/Leetcode/Design a Text Editor.md",
     "wiki/Data structures and Algorithms/Leetcode/N Queens II.md",
     "wiki/Data structures and Algorithms/Leetcode/304. Range Sum Query 2D - Immutable.md",
@@ -97,7 +98,6 @@
     "wiki/Notes/Vài ghi chép về Process.md",
     "wiki/System Design/Design Notification System.md",
     "wiki/Data structures and Algorithms/mst 1.png",
-    "wiki/Data structures and Algorithms/Leetcode/329. Longest Increasing Path in a Matrix.md",
-    "wiki/Data structures and Algorithms/Leetcode/216. Combination Sum III.md"
+    "wiki/Data structures and Algorithms/Leetcode/329. Longest Increasing Path in a Matrix.md"
   ]
 }
