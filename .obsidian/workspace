@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Notes/Libs.md",
+            "file": "wiki/Data structures and Algorithms/Leetcode/2303. Calculate Amount Paid in Taxes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Notes/Libs.md",
+                "file": "wiki/Data structures and Algorithms/Leetcode/2303. Calculate Amount Paid in Taxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Leetcode/2303. Calculate Amount Paid in Taxes.md",
     "wiki/Notes/Libs.md",
     "wiki/Interview/Index.md",
     "wiki/Notes/Untitled.md",
@@ -97,7 +98,6 @@
     "wiki/Data structures and Algorithms/Leetcode/N Queens II.md",
     "wiki/Data structures and Algorithms/Leetcode/304. Range Sum Query 2D - Immutable.md",
     "wiki/Notes/Microservice - Learning resources.md",
-    "wiki/Notes/Unix Processes.md",
-    "wiki/Notes/Vài ghi chép về Process.md"
+    "wiki/Notes/Unix Processes.md"
   ]
 }
