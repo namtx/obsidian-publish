@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/2303. Calculate Amount Paid in Taxes.md",
+            "file": "wiki/Data structures and Algorithms/Leetcode/745. Prefix and Suffix Search.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/2303. Calculate Amount Paid in Taxes.md",
+                "file": "wiki/Data structures and Algorithms/Leetcode/745. Prefix and Suffix Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Data structures and Algorithms/Leetcode/745. Prefix and Suffix Search.md",
+    "wiki/Data structures and Algorithms/Leetcode/216. Combination Sum III.md",
     "wiki/Data structures and Algorithms/Leetcode/2303. Calculate Amount Paid in Taxes.md",
     "wiki/Notes/Libs.md",
     "wiki/Interview/Index.md",
@@ -96,8 +98,6 @@
     "wiki/Data structures and Algorithms/Leetcode/2295. Replace Elements in an Array.md",
     "wiki/Data structures and Algorithms/Leetcode/Design a Text Editor.md",
     "wiki/Data structures and Algorithms/Leetcode/N Queens II.md",
-    "wiki/Data structures and Algorithms/Leetcode/304. Range Sum Query 2D - Immutable.md",
-    "wiki/Notes/Microservice - Learning resources.md",
-    "wiki/Notes/Unix Processes.md"
+    "wiki/Data structures and Algorithms/Leetcode/304. Range Sum Query 2D - Immutable.md"
   ]
 }
