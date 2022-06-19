@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-roamlinks-plugin
 pymdown-extensions
+mkdocs-obsidian-tag-plugin==0.0.1

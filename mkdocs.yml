@@ -11,6 +11,7 @@ theme:
     - navigation.tabs
 plugins:
   - roamlinks
+  - mkdocs-obsidian-tag-plugin
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
