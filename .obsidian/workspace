@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/1268. Search Suggestions System.md",
+            "file": "wiki/Notes/How does HTTPS work?.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/1268. Search Suggestions System.md",
+                "file": "wiki/Notes/How does HTTPS work?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6cc1932627d4f057",
   "lastOpenFiles": [
+    "wiki/Notes/How does HTTPS work?.md",
     "wiki/Data structures and Algorithms/Leetcode/1268. Search Suggestions System.md",
     "wiki/Books/Programming Concurrency on the JVM.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md",
@@ -97,7 +98,6 @@
     "wiki/Data structures and Algorithms/Binary Search Tree/Search And Insertion.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Unique Binary Search Trees II.md",
     "wiki/Data structures and Algorithms/Binary Search Tree/Delete.md",
-    "wiki/Interview/Index.md",
-    "wiki/Data structures and Algorithms/Leetcode/745. Prefix and Suffix Search.md"
+    "wiki/Interview/Index.md"
   ]
 }
