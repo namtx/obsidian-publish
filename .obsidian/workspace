@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiki/Data structures and Algorithms/Leetcode/823. Binary Trees With Factors.md",
+            "file": "wiki/System Design/saga pattern.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "32aad34991a928ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "wiki/System Design/System Design Reading List.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Data structures and Algorithms/Leetcode/823. Binary Trees With Factors.md",
+                "file": "wiki/System Design/System Design Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6cc1932627d4f057",
+  "active": "32aad34991a928ef",
   "lastOpenFiles": [
-    "wiki/System Design/Microservice Patterns.md",
-    "wiki/System Design/Design Notification System.md",
     "wiki/System Design/scale cube.png",
+    "wiki/System Design/SAGA pattern - command based.png",
+    "wiki/System Design/Microservice Patterns.md",
+    "wiki/System Design/JWT.md",
+    "wiki/System Design/Read list.md",
     "wiki/System Design/Pasted image 20220525234116.png",
-    "wiki/Books/Programming Concurrency on the JVM.md",
-    "wiki/Data structures and Algorithms/Leetcode/300. Longest Increasing Subsequence.md",
-    "wiki/Data structures and Algorithms/Leetcode/longest-increasing-subsequence.png",
-    "wiki/Notes/How does HTTPS work?.md",
-    "wiki/Data structures and Algorithms/Leetcode/1268. Search Suggestions System.md",
-    "wiki/Data structures and Algorithms/Binary Search Tree/Construct BST from given preorder traversal.md"
+    "wiki/System Design/SAGA pattern - event based.png",
+    "wiki/System Design/saga pattern.md",
+    "wiki/System Design/System Design Reading List.md",
+    "wiki/Data structures and Algorithms/Leetcode/823. Binary Trees With Factors.md"
   ]
 }
