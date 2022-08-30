@@ -7,11 +7,9 @@
         "id": "bf8d9acfbccb7d23",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "wiki/Interview/TCP.md",
-            "mode": "source",
-            "source": false
+            "file": "wiki/Data structures and Algorithms/mst 1.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Interview/TCP.md",
+                "file": "wiki/Data structures and Algorithms/mst 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +76,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "d39cc26f588917b2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ]
@@ -89,15 +95,15 @@
   },
   "active": "bf8d9acfbccb7d23",
   "lastOpenFiles": [
-    "wiki/Interview/Networking.md",
-    "wiki/Interview/emphemeral port.md",
-    "wiki/Interview/Index.md",
-    "wiki/Interview/DNS.md",
-    "Pasted image 20220816114627.png",
-    "Pasted image 20220808212200.png",
-    "wiki/Books/Building Microservices - Summary.md",
+    "wiki/Notes/CDK.md",
+    "2022-08-29.md",
+    "wiki/Data structures and Algorithms/Leetcode/2391. Minimum Amount of Time to Collect Garbage.md",
     "wiki/Books/Programming Concurrency on the JVM.md",
-    "wiki/Interview/Process.md",
-    "wiki/Interview/Operating System.md"
+    "wiki/Books/Building Microservices - Summary.md",
+    "wiki/Notes/Index.md",
+    "wiki/Notes/Libs.md",
+    "wiki/Notes/How does HTTPS work?.md",
+    "wiki/Interview/emphemeral port.md",
+    "wiki/Interview/TCP.md"
   ]
 }
